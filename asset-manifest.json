@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TODO_REDUX/static/css/main.beef6503.css",
+    "main.js": "/TODO_REDUX/static/js/main.e19396d6.js",
+    "static/js/787.e86875ab.chunk.js": "/TODO_REDUX/static/js/787.e86875ab.chunk.js",
+    "static/media/logo.svg": "/TODO_REDUX/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TODO_REDUX/index.html",
+    "main.beef6503.css.map": "/TODO_REDUX/static/css/main.beef6503.css.map",
+    "main.e19396d6.js.map": "/TODO_REDUX/static/js/main.e19396d6.js.map",
+    "787.e86875ab.chunk.js.map": "/TODO_REDUX/static/js/787.e86875ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beef6503.css",
+    "static/js/main.e19396d6.js"
+  ]
+}
